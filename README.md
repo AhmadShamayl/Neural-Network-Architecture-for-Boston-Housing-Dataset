@@ -9,7 +9,7 @@ Usage
 Project Structure
 Results
 Contributing
-License
+
 Introduction
 This project involves creating a neural network from scratch using Python and numpy to predict the median value of owner-occupied homes in the Boston area. The dataset is preprocessed, and a custom neural network class is implemented and trained.
 
